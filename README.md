@@ -59,21 +59,3 @@ This project helps users manage daily tasks efficiently and was created to stren
 ## 🌐 Live Demo
 
 🔗 [https://manaswithak.github.io/To-do-list/](https://manaswithak.github.io/To-do-list/)
-
----
-
-## 📌 Resume Description (ATS-Friendly)
-
-```
-To-Do List Web Application
-• Built a task management web app using HTML, CSS, and JavaScript
-• Implemented CRUD operations and DOM manipulation
-• Used localStorage to persist user tasks across sessions
-```
-
----
-
-## 🙌 Author
-
-**Kandala Manaswitha**
-B.Tech CSE (AI & DS) | Aspiring Full Stack Developer
