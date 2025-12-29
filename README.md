@@ -38,9 +38,8 @@ This project helps users manage daily tasks efficiently and was created to stren
 
 ## 📸 Screenshot
 
-![To-Do List Web App](./screenshot.png)
+![To-Do List Web App](https://github.com/manaswithak/To-do-list/blob/24ada5a22728a403150e769e676d85f9caae37b4/To-do-list.png)
 
-> 📌 
 
 
 ---
